@@ -1,0 +1,39 @@
+[13-May-2015 01:29:36 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 16
+[13-May-2015 01:30:06 UTC] PHP Parse error:  syntax error, unexpected '_SERVER' (T_STRING) in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 20
+[13-May-2015 01:30:29 UTC] PHP Warning:  require(authenticator.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 3
+[13-May-2015 01:30:29 UTC] PHP Fatal error:  require(): Failed opening required 'authenticator.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 3
+[13-May-2015 01:31:44 UTC] PHP Fatal error:  Cannot redeclare connectToDatabase() (previously declared in /home/mark/public_html/peter/shamenet/authenticator.php:10) in /home/mark/public_html/peter/shamenet/authenticator.php on line 17
+[13-May-2015 01:32:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'mark'@'localhost' (using password: NO) in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 13
+[13-May-2015 01:32:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 13
+[13-May-2015 01:32:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mark/public_html/peter/shamenet/manage-users/add-user.php:13) in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 15
+[21-May-2015 01:00:52 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 37
+[21-May-2015 01:00:52 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 37
+[21-May-2015 01:00:52 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 57
+[21-May-2015 01:00:52 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 57
+[21-May-2015 01:16:13 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 37
+[21-May-2015 01:16:13 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 37
+[21-May-2015 01:16:13 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 57
+[21-May-2015 01:16:13 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 57
+[21-May-2015 01:16:15 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 37
+[21-May-2015 01:16:15 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 37
+[21-May-2015 01:16:15 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 57
+[21-May-2015 01:16:15 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 57
+[21-May-2015 08:35:46 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/view-user.php on line 21
+[21-May-2015 08:35:46 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/view-user.php on line 21
+[21-May-2015 08:35:46 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/view-user.php on line 29
+[21-May-2015 08:35:46 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/view-user.php on line 29
+[21-May-2015 10:10:49 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 13
+[21-May-2015 10:10:49 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 13
+[21-May-2015 10:10:49 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 22
+[21-May-2015 10:10:49 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 22
+[24-May-2015 08:50:05 UTC] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 5
+[24-May-2015 09:41:46 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /home/mark/public_html/peter/shamenet/logger.php on line 35
+[24-May-2015 09:43:58 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /home/mark/public_html/peter/shamenet/logger.php on line 35
+[24-May-2015 09:50:16 UTC] PHP Fatal error:  Call to a member function insert() on a non-object in /home/mark/public_html/peter/shamenet/logger.php on line 35
+[24-May-2015 10:15:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 130968 bytes) in /home/mark/public_html/peter/shamenet/database.php on line 17
+[24-May-2015 10:32:38 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 13
+[24-May-2015 10:32:38 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 13
+[24-May-2015 10:32:38 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 22
+[24-May-2015 10:32:38 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/mark/public_html/peter/shamenet/manage-users/add-user.php on line 22
+[24-May-2015 11:22:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 43
+[26-May-2015 05:53:59 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/mark/public_html/peter/shamenet/manage-users/index.php on line 41
